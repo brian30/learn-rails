@@ -1,7 +1,23 @@
 == README
 
-This README is about Gapps Technology website. A company that deals in providing IT services, Web Application development, Software Engineering, Web hosting and Supplies.
+This is a Learn-Rails application that shows a student how to develop applications in Rails.
 
-The website will be sending mails to clients via mailchip and hosting services will be from Heroku.
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
 
 <tt>rake doc:app</tt>.
